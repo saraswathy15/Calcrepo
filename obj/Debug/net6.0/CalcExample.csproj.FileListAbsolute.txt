@@ -12,3 +12,4 @@ D:\Mphasis\Phase4\Feb16\CalcExample\CalcExample\obj\Debug\net6.0\refint\CalcExam
 D:\Mphasis\Phase4\Feb16\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.pdb
 D:\Mphasis\Phase4\Feb16\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.genruntimeconfig.cache
 D:\Mphasis\Phase4\Feb16\CalcExample\CalcExample\obj\Debug\net6.0\ref\CalcExample.dll
+D:\Mphasis\Phase4\Feb16\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.sourcelink.json
